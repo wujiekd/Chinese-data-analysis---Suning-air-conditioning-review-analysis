@@ -2,7 +2,10 @@
 
 | 词表名 | 词表文件 |
 | - | - |
-| 中文停用词表                   | cn\_stopwords.txt    |
-| 哈工大停用词表                 | hit\_stopwords.txt   |
-| 百度停用词表                   | baidu\_stopwords.txt |
-| 四川大学机器智能实验室停用词库 | scu\_stopwords.txt   |
+| suning.ipynb                  | 主要代码   |
+| 苏宁易购-商品评论.csv                 | 需要分析的中文数据   |
+| cn_stopwords.txt                  | 停用词表 |
+| example.html | EDA生成文件   |
+| wordcloud.png                  | 输出的词云图 |
+| cloud.png | 词云图背景图   |
+| 中文stopwords表格|补充中文停用词表|
